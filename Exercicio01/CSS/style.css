@@ -1,0 +1,36 @@
+.inputs{
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+}
+#btn{
+    margin-top: 3%;
+}
+.titulo{
+    font-size: 22pt;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+}
+.statusVerde{
+    color: green;
+}
+.statusVermelho{
+    color: red;
+}
+.label{
+    margin-top: 8%;
+}
+.btn{
+    margin-right: 2%;
+    height: 40px;
+    width: 150px;
+}
+.botoes{
+    margin-top: 3%;
+    display: flex;
+    flex-direction: row;
+}
